@@ -1,0 +1,5 @@
+package com.abw.latihan
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
